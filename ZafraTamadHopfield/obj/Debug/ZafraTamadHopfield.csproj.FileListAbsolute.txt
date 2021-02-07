@@ -1,0 +1,13 @@
+C:\Users\Zafra\Desktop\MyHopfield\ZafraTamadHopfield\bin\Debug\ZafraTamadHopfield.exe.config
+C:\Users\Zafra\Desktop\MyHopfield\ZafraTamadHopfield\bin\Debug\ZafraTamadHopfield.exe
+C:\Users\Zafra\Desktop\MyHopfield\ZafraTamadHopfield\bin\Debug\ZafraTamadHopfield.pdb
+C:\Users\Zafra\Desktop\MyHopfield\ZafraTamadHopfield\bin\Debug\ImageMagnifier.dll
+C:\Users\Zafra\Desktop\MyHopfield\ZafraTamadHopfield\obj\Debug\ZafraTamadHopfield.csprojAssemblyReference.cache
+C:\Users\Zafra\Desktop\MyHopfield\ZafraTamadHopfield\obj\Debug\ZafraTamadHopfield.Form1.resources
+C:\Users\Zafra\Desktop\MyHopfield\ZafraTamadHopfield\obj\Debug\ZafraTamadHopfield.Properties.Resources.resources
+C:\Users\Zafra\Desktop\MyHopfield\ZafraTamadHopfield\obj\Debug\ZafraTamadHopfield.csproj.GenerateResource.cache
+C:\Users\Zafra\Desktop\MyHopfield\ZafraTamadHopfield\obj\Debug\ZafraTamadHopfield.csproj.CoreCompileInputs.cache
+C:\Users\Zafra\Desktop\MyHopfield\ZafraTamadHopfield\obj\Debug\ZafraTamadHopfield.csproj.CopyComplete
+C:\Users\Zafra\Desktop\MyHopfield\ZafraTamadHopfield\obj\Debug\ZafraTamadHopfield.exe
+C:\Users\Zafra\Desktop\MyHopfield\ZafraTamadHopfield\obj\Debug\ZafraTamadHopfield.pdb
+C:\Users\Zafra\Desktop\MyHopfield\ZafraTamadHopfield\obj\Debug\ZafraTamadHopfield.Form2.resources
