@@ -102,13 +102,13 @@ namespace ZafraTamadHopfield
             Form2 form2 = new Form2();
             form2.ShowDialog();
 
-            Random r = new Random();
+            Random rng = new Random();
             int j = 0 , k = 0;
 
             for(int i = 0; i < form2.scrambleLevel; i++)
             {
-                j = r.Next(imageSize);
-                k = r.Next(imageSize);
+                j = rng.Next(imageSize);
+                k = rng.Next(imageSize);
                 if (nnState.pixels[j, k] == Color.Black.ToArgb())
                     nnState.pixels[j, k] = Color.White.ToArgb();
                 else if (nnState.pixels[j, k] == Color.White.ToArgb())
